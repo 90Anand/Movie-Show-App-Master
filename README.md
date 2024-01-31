@@ -2,9 +2,9 @@
 
 
 
-![image](https://github.com/01saurabhshukla/TV-Show-App/assets/88873969/4a63341e-9444-49c4-8526-72043e7de2c0)
+![image](https://github.com/90Anand/Movie-Show-App-Master/assets/88873969/4a63341e-9444-49c4-8526-72043e7de2c0)
 
-![image](https://github.com/01saurabhshukla/TV-Show-App/assets/88873969/43d49c2a-cab9-4802-8d3b-ad99ac9df981)
+![image](https://github.com/90Anand/Movie-Show-App-Master/assets/88873969/43d49c2a-cab9-4802-8d3b-ad99ac9df981)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
