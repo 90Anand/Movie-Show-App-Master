@@ -1,0 +1,125 @@
+/* src/App.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+/* src/App.css */
+/* ... (your existing styles) */
+
+.container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card-container {
+    display: flex;
+    /* Removed 'flex-direction: column;' to display cards horizontally */
+    align-items: center;
+    overflow-x: auto; /* Add this to allow horizontal scrolling if needed */
+    margin: 0; /* Remove any margin */
+    padding: 0; /* Remove any padding */
+  }
+  
+  .card {
+    width: 300px;
+    margin: 10px;
+    margin-right: 10px; /* Add right margin to create space between cards */
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+  }
+
+  .card:first-child {
+    margin-right: 0; /* Remove right margin for the last card */
+  }
+  
+  .card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .card h3 {
+    margin: 10px 0;
+  }
+  
+  .card p {
+    margin: 5px 0;
+  }
+  
+  .card button {
+    padding: 8px 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .card button:hover {
+    background-color: #2980b9;
+  }
+  
+  
+
+/* src/App.css */
+/* ... (your existing styles) */
+
+.detail-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .detail-card {
+    display: flex;
+    max-width: 800px;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .detail-card img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 4px;
+    margin-right: 20px;
+  }
+  
+  .detail-content {
+    flex: 1;
+  }
+  
+  .detail-content h2 {
+    margin-bottom: 10px;
+  }
+  
+  .detail-content p {
+    margin-bottom: 8px;
+  }
+  
+  .detail-content button {
+    padding: 8px 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .detail-content button:hover {
+    background-color: #2980b9;
+  }
+  
