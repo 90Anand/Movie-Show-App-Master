@@ -1,11 +1,8 @@
 # Getting Started with Create React App
 
+![Screenshot (4)](https://github.com/90Anand/Movie-Show-App-Master/assets/139998947/90d53069-09a7-4925-a34a-cc51975d979e)
 
-
-![image](https://github.com/90Anand/Movie-Show-App-Master/assets/88873969/4a63341e-9444-49c4-8526-72043e7de2c0)
-
-![image](https://github.com/90Anand/Movie-Show-App-Master/assets/88873969/43d49c2a-cab9-4802-8d3b-ad99ac9df981)
-
+![Screenshot (5)](https://github.com/90Anand/Movie-Show-App-Master/assets/139998947/f64324e9-76f1-462a-a077-3fe9344fac6d)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
